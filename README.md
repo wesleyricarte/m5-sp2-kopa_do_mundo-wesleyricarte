@@ -1,4 +1,4 @@
-# M5 - Kopa do Mundo
+# M5 - Kopa do Mundo - API de times da Copa do Mundo em Python - Wesley Ricarte
 
 ## Como rodar os testes localmente
  - Verifique se os pacotes pytest e/ou pytest-testdox estão instalados globalmente em seu sistema:
